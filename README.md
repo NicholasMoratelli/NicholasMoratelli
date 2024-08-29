@@ -1,4 +1,4 @@
-# Nicholas Moratelli, PhD Student @ AImageLab <img src="https://avatars.githubusercontent.com/u/32870596?s=200&v=4" alt="AImageLab Logo" width="50" height="50">
+# Nicholas Moratelli, PhD Student @ AImageLab <img src="https://avatars.githubusercontent.com/u/32870596?s=200&v=4" alt="AImageLab Logo" width="40" height="40">
 ## About Me 
 
 🤖 I’m @NicholasMoratelli, a Ph.D. Student under the supervision of Prof. Rita Cucchiara at AImageLab (UNIMORE).
