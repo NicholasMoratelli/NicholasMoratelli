@@ -10,8 +10,6 @@
 - Vision and Language (V&L)
 - Vision Foundation Models
 - Retrieval Augmented Generation (RAG)
-- Compositional AI
-- Modular Deep Learning, Parameter Efficient Fine-tuning
 
 ## Contact Information 📫
 - Email: nicholas.moratelli@unimore.it
