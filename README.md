@@ -13,8 +13,9 @@
 
 ## Contact Information 📫
 - Email: nicholas.moratelli@unimore.it
-- Linkedin: https://www.linkedin.com/in/nicholas-moratelli-12326823
+- Linkedin: https://www.linkedin.com/in/nicholas-moratelli
 - Google Scholar: https://scholar.google.com/citations?user=8YkdgNkAAAAJ
+- website: nicholasmoratelli.com
 
 <!--
 **NicholasMoratelli/NicholasMoratelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
