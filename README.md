@@ -3,10 +3,10 @@
 
 🤖 I’m @NicholasMoratelli, a Ph.D. Student under the supervision of Prof. Rita Cucchiara at AImageLab (UNIMORE).
 
-👀 My research primarily focuses on Multimodal Large Language Models, Vision and Language, and Foundation Models. My research is driven by a deep interest in Generative AI and HPC systems. I leverage advanced AI technologies to lead innovative solutions, tackling both emerging and enduring challenges with adaptability and expertise.
+👀 My research primarily focuses on Large Vision Language Models, Vision and Language, and Foundation Models. My research is driven by a deep interest in Generative AI and HPC systems. I leverage advanced AI technologies to lead innovative solutions, tackling both emerging and enduring challenges with adaptability and expertise.
 
 ## Research Topics 🔭
-- Multimodal Large Language Models (MLLM)
+- Large Vision Language Models (MLLM)
 - Vision and Language (V&L)
 - Vision Foundation Models
 - Retrieval Augmented Generation (RAG)
