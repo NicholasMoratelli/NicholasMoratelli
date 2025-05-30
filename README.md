@@ -6,7 +6,7 @@
 👀 My research primarily focuses on Large Vision Language Models, Vision and Language, and Foundation Models. My research is driven by a deep interest in Generative AI and HPC systems. I leverage advanced AI technologies to lead innovative solutions, tackling both emerging and enduring challenges with adaptability and expertise.
 
 ## Research Topics 🔭
-- Large Vision Language Models (MLLM)
+- Large Vision Language Models (LVLMs)
 - Vision and Language (V&L)
 - Vision Foundation Models
 - Retrieval Augmented Generation (RAG)
