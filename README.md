@@ -23,12 +23,13 @@ PhD Candidate in Vision–Language & Multimodal AI @ AImageLab (UNIMORE)
 
 ## About Me
 
-🤖 I am a Ph.D. Candidate in Artificial Intelligence at **AImageLab**, University of Modena and Reggio Emilia, supervised by Prof. Rita Cucchiara.
+🤖 I am a Ph.D. Candidate in Artificial Intelligence at **AImageLab**, University of Modena and Reggio Emilia.
 
 My research focuses on **Vision–Language Models** and **Multimodal Large Language Models**, with particular interest in **knowledge-intensive multimodal reasoning** and **retrieval-augmented generation (RAG)**.
 
 I work on the **design, training, and evaluation of large-scale multimodal systems**, combining generative models with retrieval, grounding, and structured reasoning mechanisms.  
-Alongside academic research, I have experience in **applied multimodal AI**, including work on large-scale vision–language systems at Amazon AGI.
+
+Alongside academic research, I have experience in **applied multimodal AI**, including work on large-scale vision–language systems at **Amazon AGI**.
 
 ---
 
