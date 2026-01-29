@@ -1,4 +1,5 @@
-# Nicholas Moratelli, PhD Student @ AImageLab <img src="logo_AImageLab.png" alt="AImageLab Logo" width="3%">
+<!-- # Nicholas Moratelli, PhD Candidate @ AImageLab <img src="logo_AImageLab.png" alt="AImageLab Logo" width="3%">
+
 ## About Me 
 
 🤖 I’m @NicholasMoratelli, a Ph.D. Student under the supervision of Prof. Rita Cucchiara at AImageLab (UNIMORE).
@@ -15,19 +16,39 @@
 - Email: nicholas.moratelli@unimore.it
 - Linkedin: https://www.linkedin.com/in/nicholas-moratelli
 - Google Scholar: https://scholar.google.com/citations?user=8YkdgNkAAAAJ
-- website: https://nicholasmoratelli.com
+- website: https://nicholasmoratelli.com -->
 
-<!--
-**NicholasMoratelli/NicholasMoratelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nicholas Moratelli
+PhD Candidate in Vision–Language & Multimodal AI @ AImageLab (UNIMORE)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I am a Ph.D. Candidate in Artificial Intelligence at **AImageLab**, University of Modena and Reggio Emilia, supervised by Prof. Rita Cucchiara.
+
+My research focuses on **Vision–Language Models** and **Multimodal Large Language Models**, with particular interest in **knowledge-intensive multimodal reasoning** and **retrieval-augmented generation (RAG)**.
+
+I work on the **design, training, and evaluation of large-scale multimodal systems**, combining generative models with retrieval, grounding, and structured reasoning mechanisms.  
+Alongside academic research, I have experience in **applied multimodal AI**, including work on large-scale vision–language systems at Amazon AGI.
+
+---
+
+## Research Topics 🔭
+- Vision–Language Models (VLMs)  
+- Multimodal Large Language Models (MLLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Knowledge-based Visual Question Answering  
+- Multimodal reasoning and evaluation  
+
+---
+
+## Publications 📚
+I publish at top-tier venues including **CVPR, ICLR, ACL, and BMVC**.  
+👉 Full publication list available on **Google Scholar**.
+
+---
+
+## Links & Contact 📫
+- 🌍 Website: https://nicholasmoratelli.com  
+- 📖 Google Scholar: https://scholar.google.com/citations?user=8YkdgNkAAAAJ
+- 💼 LinkedIn: https://www.linkedin.com/in/nicholas-moratelli  
+- 📧 Email: nicholas.moratelli@gmail.com
